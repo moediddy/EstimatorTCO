@@ -8,7 +8,7 @@
                 "name": "Virtual CPU",
                 "descriptionHtml" : "Standard Servers. 2 Ghz+ Processor (up to 16 cpu)",
                 "type" : "hourly (allocated)",
-                "hourly" : 0.0100,
+                "hourly" : 0.0000,
                 "href": "/servers"
             },
             {
